@@ -23,7 +23,6 @@
     </form>
   </div>
 </body>
-
 </html>
 <?php
   if ($_SERVER["REQUEST_METHOD"] == "POST") {

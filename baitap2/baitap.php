@@ -36,7 +36,7 @@ echo "Publisher : " . $data['Detail']['Publisher'];
 echo "</br>";
 
 //bai tap 5
-$array = array( 'a' => 31, 'b' => 41, 'c' => 39, 'd' => 40 ); 
+$array = array('a' => 31, 'b' => 41, 'c' => 39, 'd' => 40); 
 asort($array);
 print_r($array);
 echo "</br>";
